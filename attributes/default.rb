@@ -1,5 +1,6 @@
 default['florent_dev'] = {
   packages: [
+    'bundler',
     'git',
     'ipython',
     'python',
