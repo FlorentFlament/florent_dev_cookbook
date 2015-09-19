@@ -7,3 +7,4 @@ end
 
 # Installing required packages prior to execute vagrant recipe
 include_recipe 'vagrant'
+include_recipe 'users-files'
