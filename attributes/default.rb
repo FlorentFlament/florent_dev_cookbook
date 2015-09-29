@@ -3,6 +3,7 @@ default['florent_dev'] = {
     'bundler',
     'git',
     'ipython',
+    'magit',
     'python',
     'python-dev',
     'python-cinderclient',
